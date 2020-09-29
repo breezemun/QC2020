@@ -15,4 +15,4 @@
 > 4. assets
 > 5. images
 > 6. README.md
-> 7. repository 폴더 생성
+> 7. repository
