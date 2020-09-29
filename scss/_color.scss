@@ -1,0 +1,31 @@
+//Alpa value
+$alpha: 0.7;
+
+// default color
+$breezblue: rgb(0, 123, 255) !default;
+$breezpurple: rgb(90, 12, 90) !default;
+$breezred: rgb(179, 11, 11) !default;
+$breezyellow: rgb(245, 245, 66) !default;
+$breezgreen:rgb(65, 236, 65) !default;
+// Grey
+$breezgray: rgb(160, 158, 158) !default;
+$breezdark: rgb(36, 35, 35) !default;
+//Black & white
+$breezwhite: rgb(255, 255, 255) !default;
+$breezblack: rgb(0, 0, 0) !default;
+
+// background color 
+$bg-breezblue: rgba($vlue, $alpha) !default;
+$bg-breezpurple: rgba($furfle, $alhpa) !default;
+$bg-breezred: rgba($led, $alpha) !default;
+$bg-breezyellow: rgba($wellow, $alpha) !default;
+$bg-breezgreen: rgba($kreen, $alpha) !default;
+
+// default color array
+$default-color: (
+  'breezblue': $breezblue,
+  'breezpurple': $breezpurple,
+  'breezred': $breezred,
+  'breezyellow': $breezyellow,
+  'breezgreen': $breezgreen,
+);
