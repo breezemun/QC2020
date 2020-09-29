@@ -5,7 +5,8 @@
 > 2. color name
 
 ## 2020-09-22
-> 1. 폰트어썸
+> 1. font-awesome
+> 2. import
 
 ## 2020-09-17
 > 1. index.html
